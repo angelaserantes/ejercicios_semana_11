@@ -6,7 +6,7 @@ public class Agenda {
     private int contador;
 
     public Agenda() {
-        perfiles = new Perfil[3];
+        perfiles = new Perfil[10];
         contador = 0;
     }
 
